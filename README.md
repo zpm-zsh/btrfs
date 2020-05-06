@@ -1,9 +1,9 @@
-Template for zsh plugin
+Plugin for btrfs file-system, maybe this will corrupt your data
 ===
 
-> Empty template for zsh plugin
+> Plugin for btrfs file-system, maybe this will corrupt your data
 
-### [Homepage](https://github.com/zpm-zsh/template-for-zsh-plugin)
+### [Homepage](https://github.com/zpm-zsh/btrfs)
 
 
 ### Author
@@ -15,4 +15,4 @@ Template for zsh plugin
 ## License
 
 Copyright © 2020 [@zpm-zsh](https://github.com/zpm-zsh).  
-This project is [MIT](https://github.com/zpm-zsh/template-for-zsh-plugin/LICENSE) licensed.
+This project is [MIT](https://github.com/zpm-zsh/btrfs/LICENSE) licensed.
