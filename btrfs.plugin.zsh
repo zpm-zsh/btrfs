@@ -12,4 +12,9 @@
 #   fpath+=( "${0:h}/bin" )
 # }
 
+if (( $+functions[zpm] )); then #DO_NOT_INCLUDE_LINE_IN_ZPM_CACHE
+  zpm load nachoparker/btrfs-du,path:/ #DO_NOT_INCLUDE_LINE_IN_ZPM_CACHE
+fi #DO_NOT_INCLUDE_LINE_IN_ZPM_CACHE
+
 alias cp='cp --reflink=auto --sparse=always'
+
